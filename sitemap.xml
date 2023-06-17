@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/</loc>
+    <loc>https://amutu.github.io/</loc>
     <lastmod>2023-06-17T16:54:48+08:00</lastmod>
   </url><url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/posts/hello-world/</loc>
+    <loc>https://amutu.github.io/posts/hello-world/</loc>
     <lastmod>2023-06-17T16:54:48+08:00</lastmod>
   </url><url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/posts/</loc>
+    <loc>https://amutu.github.io/posts/</loc>
     <lastmod>2023-06-17T16:54:48+08:00</lastmod>
   </url><url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/about/</loc>
+    <loc>https://amutu.github.io/about/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/categories/</loc>
+    <loc>https://amutu.github.io/categories/</loc>
   </url><url>
-    <loc>https://nodejh.github.io/hugo-theme-mini/tags/</loc>
+    <loc>https://amutu.github.io/tags/</loc>
   </url>
 </urlset>

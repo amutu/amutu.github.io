@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Amutu&#39;s blog</title>
-    <link>https://nodejh.github.io/hugo-theme-mini/posts/</link>
+    <link>https://amutu.github.io/posts/</link>
     <description>Recent content in Posts on Amutu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2023 16:54:48 +0800</lastBuildDate><atom:link href="https://nodejh.github.io/hugo-theme-mini/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 16:54:48 +0800</lastBuildDate><atom:link href="https://amutu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://nodejh.github.io/hugo-theme-mini/posts/hello-world/</link>
+      <link>https://amutu.github.io/posts/hello-world/</link>
       <pubDate>Sat, 17 Jun 2023 16:54:48 +0800</pubDate>
       
-      <guid>https://nodejh.github.io/hugo-theme-mini/posts/hello-world/</guid>
+      <guid>https://amutu.github.io/posts/hello-world/</guid>
       <description>This is my new blog using Hugo!</description>
     </item>
     
